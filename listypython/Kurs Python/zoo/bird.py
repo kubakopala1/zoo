@@ -19,3 +19,4 @@ bird = Bird()
 bird.print_atrybuty()
 bird.get_imie()
 
+# dodano komentarz
