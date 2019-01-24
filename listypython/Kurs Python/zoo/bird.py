@@ -12,8 +12,10 @@ class Bird(Animal):
         print self.waga
         print self.wiek
 
+
+
 bird = Bird()
 
 bird.print_atrybuty()
-
+bird.get_imie()
 
