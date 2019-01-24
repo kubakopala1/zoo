@@ -3,7 +3,7 @@ from Animal import Animal
 class Bird(Animal):
     def __init__(self):
         Animal.__init__(self)
-        self.kolor = "Czerwony"
+        self.kolor = "Niebieski"
 
     def print_atrybuty(self):
         print self.kolor
