@@ -1,0 +1,6 @@
+Jest to testowy
+# plik ktory
+sluzy do uczeni się jezyka
+# python
+ktory jest bardzo fajny a ten
+plik ma dokładnie 6 linii
