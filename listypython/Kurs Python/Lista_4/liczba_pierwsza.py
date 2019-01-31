@@ -6,7 +6,6 @@ def pobierz_dane():
         else:
             print("Przepraszam ale nie podales liczby calkowitej")
     return podana_liczba
-x
 
 def czy_pierwsza(podana_liczba):
     status = True
